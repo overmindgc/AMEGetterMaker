@@ -131,8 +131,8 @@ static AMEGetterMaker * _ame_getter_maker;
     NSString *underLineName=[NSString stringWithFormat:@"_%@",uName];
     
     
-    NSString *line1 = [NSString stringWithFormat:@"\n- (%@%@ *)%@{",className,childClass,uName];
-    NSString *line2 = [NSString stringWithFormat:@"\n    if(!%@){",underLineName];
+    NSString *line1 = [NSString stringWithFormat:@"\n- (%@%@ *)%@ {",className,childClass,uName];
+    NSString *line2 = [NSString stringWithFormat:@"\n    if (!%@) {",underLineName];
     NSString *line3 = [NSString stringWithFormat:@"\n        %@ = ({",underLineName];
     NSString *line4 = [NSString stringWithFormat:@"\n            %@ * object = [[%@ alloc]init];",className,className];
     NSString *line5 = [NSString stringWithFormat:@"\n            object;"];

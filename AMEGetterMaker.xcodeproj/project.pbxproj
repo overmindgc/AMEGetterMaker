@@ -283,24 +283,24 @@
 				TargetAttributes = {
 					91685CB71F56827500F53EE1 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = HH594MAK5D;
+						DevelopmentTeam = 7FLPKND722;
 						ProvisioningStyle = Automatic;
 					};
 					91685CCA1F56827500F53EE1 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = S8RBTQ8YQ5;
+						DevelopmentTeam = 7FLPKND722;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 91685CB71F56827500F53EE1;
 					};
 					91685CD51F56827500F53EE1 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = S8RBTQ8YQ5;
+						DevelopmentTeam = 7FLPKND722;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 91685CB71F56827500F53EE1;
 					};
 					91685CEB1F5682C400F53EE1 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = HH594MAK5D;
+						DevelopmentTeam = 7FLPKND722;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -519,7 +519,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = HH594MAK5D;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = AMEGetterMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
@@ -534,7 +534,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = HH594MAK5D;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = AMEGetterMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
@@ -549,7 +549,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = S8RBTQ8YQ5;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = AMEGetterMakerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AME.AMEGetterMakerTests;
@@ -564,7 +564,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = S8RBTQ8YQ5;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = AMEGetterMakerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AME.AMEGetterMakerTests;
@@ -578,7 +578,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = S8RBTQ8YQ5;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = AMEGetterMakerUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AME.AMEGetterMakerUITests;
@@ -592,7 +592,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = S8RBTQ8YQ5;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = AMEGetterMakerUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AME.AMEGetterMakerUITests;
@@ -607,7 +607,7 @@
 				CODE_SIGN_ENTITLEMENTS = GetterMaker/GetterMaker.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = HH594MAK5D;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = GetterMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
@@ -623,7 +623,7 @@
 				CODE_SIGN_ENTITLEMENTS = GetterMaker/GetterMaker.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = HH594MAK5D;
+				DEVELOPMENT_TEAM = 7FLPKND722;
 				INFOPLIST_FILE = GetterMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
